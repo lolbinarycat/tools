@@ -18,7 +18,7 @@ If you use `gopls` with an editor that is not on this list, please let us know b
 
 ## Installation
 
-For the most part, you should not need to install or update `gopls`. Your editor should handle that step for you.
+For the most part, you should not need to install or update `gopls`. Most editors should handle that step for you.
 
 If you do want to get the latest stable version of `gopls`, change to any directory that is both outside of your `GOPATH` and outside of a module (a temp directory is fine), and run
 
